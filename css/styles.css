@@ -9,8 +9,35 @@ h3 {
   text-align: center;
 }
 
+.profile {
+  text-align: center;
+  background-color: #3498db;
+}
+
+.profile h1 {
+  font-family: Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
 .about-me {
-  background-color: #7f8c8d;
+  background-color: #95a5a6;
+  text-align: left;
+}
+
+.about-me p {
+  text-align: center;
+  margin: 0;
+}
+
+.column {
+  width: 33%;
+  height: 300px;
+  float: left;
+  padding: 4px;
+  background-color: #95a5a6;
+}
+.column h4 {
+  text-align: center;
 }
 
 .description {
@@ -27,28 +54,15 @@ h3 {
   padding-top: 10px;
 }
 
-.profile {
-  text-align: center;
-  background-color: #2980b9;
-}
-
-.profile h1 {
-  font-family: Helvetica, sans-serif;
-  padding-bottom: 10px;
-}
-
-.projects {
-  background-color: #34495e;
-}
-
 .project {
   width: 30%;
   float: left;
   margin-right: 1%;
   margin-left: 1%;
-  border: 5px solid #3498db;
+  border: 5px solid #95a5a6;
   padding-left: 10px;
   padding-right: 10px;
+  background-color: #7f8c8d;
 }
 
 .project h4 {
