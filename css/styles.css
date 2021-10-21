@@ -29,6 +29,10 @@ h3 {
   margin: 0;
 }
 
+.about-me h3 {
+  padding-top: 10px;
+}
+
 .column {
   width: 33%;
   height: 300px;
@@ -52,6 +56,10 @@ h3 {
   border-radius: 50%;
   width:15%;
   padding-top: 10px;
+}
+
+.projects h3 {
+  padding-top: 300px;
 }
 
 .project {
