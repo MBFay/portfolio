@@ -2,3 +2,25 @@
   border-radius: 50%;
   width:20%;
 }
+
+.description {
+  font-weight: bold;
+}
+
+.project-link {
+  font-weight: bold;
+}
+
+.project {
+  width: 30%;
+  float: left;
+  margin-right: 1%;
+  margin-left: 1%;
+  border: 5px solid #3498db;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.project h4 {
+  text-decoration: underline;
+}
