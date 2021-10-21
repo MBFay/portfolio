@@ -1,6 +1,16 @@
-#profileImg{
-  border-radius: 50%;
-  width:20%;
+/* Remove default margin to enable flush background colors */
+/*h1, h2, h3, p, ul {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0;
+}*/
+
+h3 {
+  text-align: center;
+}
+
+.about-me {
+  background-color: #7f8c8d;
 }
 
 .description {
@@ -9,6 +19,26 @@
 
 .project-link {
   font-weight: bold;
+}
+
+#profileImg{
+  border-radius: 50%;
+  width:15%;
+  padding-top: 10px;
+}
+
+.profile {
+  text-align: center;
+  background-color: #2980b9;
+}
+
+.profile h1 {
+  font-family: Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+.projects {
+  background-color: #34495e;
 }
 
 .project {
