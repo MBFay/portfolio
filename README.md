@@ -1,4 +1,4 @@
-# Vacation Website (Epicodus Project)
+# Portfolio Webpage (Epicodus Project)
 
 #### _DATE CREATED OCT 21, 2021_
 
