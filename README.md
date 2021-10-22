@@ -11,11 +11,12 @@ A personal portfolio, containing information about myself and projects, for Epic
 ## ⚙️ Setup/Installation Requirements 
 
 Software Requirements
-* An internet browser of your choice; I prefer Chrome
-* A code editor; I prefer VSCode
+* An internet browser of your choice
+* A code or text editor
 
-Open by Downloading or Cloning
-* Download this repository to your computer by clicking the green Code button and 'Download Zip'
+Open via Github Pages, Downloading or Cloning
+* Navigate to: https://mbfay.github.io/portfolio
+* Or download this repository to your computer by clicking the green Code button and 'Download Zip'
 * Or clone the repository
 
 Setup Instructions 
@@ -34,6 +35,7 @@ Please feel free to contact me with issues anytime at <matthew.bansefay@gmail.co
 
 * HTML
 * CSS
+* Bootstrap
 
 ### License
 
