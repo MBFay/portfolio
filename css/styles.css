@@ -30,7 +30,6 @@ h3 {
 
 .about-me p {
   text-align: center;
-  margin: 0;
 }
 
 .about-me h3 {
@@ -38,12 +37,10 @@ h3 {
 }
 
 .column {
-  width: 33%;
-  height: 300px;
-  float: left;
-  padding: 4px;
-  background-color: #95a5a6;
+  margin-left: 4%;
+  margin-right: 4%;
 }
+
 .column h4 {
   text-align: center;
 }
@@ -60,10 +57,6 @@ h3 {
   border-radius: 50%;
   width:15%;
   padding-top: 10px;
-}
-
-.projects h3 {
-  padding-top: 300px;
 }
 
 .project {
